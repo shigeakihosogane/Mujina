@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aLKqZBPV8aGmpi3x18tUld3d0GnWm9Kl67IpkT7Rrz+iMkmgjrlmSghP19z0mggzgVwKzPekjtEhNxJYe7tEkA==",
+  "dgSpecHash": "YCXjzThKj4leJfzOe4K6wvwH3Pwczzt0HjMqGxqTSkGs56bYXLE67N1IEGbJyrkWozonkRlngIScvrzMS7a3Og==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hinode24\\source\\repos\\Mujina\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.8\\microsoft.entityframeworkcore.design.6.0.8.nupkg.sha512",
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.8\\microsoft.entityframeworkcore.relational.6.0.8.nupkg.sha512",
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.8\\microsoft.entityframeworkcore.sqlserver.6.0.8.nupkg.sha512",
+    "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.8\\microsoft.entityframeworkcore.tools.6.0.8.nupkg.sha512",
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\Hinode24\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
